@@ -1,16 +1,17 @@
-### Hi there 👋
+# 20200924
 
-<!--
-**C107118214/C107118214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 黃識宇 C107118214
+## 黃識宇
+### 黃識宇
+#### 黃識宇
+##### 黃識宇
+###### 黃識宇
+|Right | Center | left |
+|:- | :-: | -: |
+|:+1: | :-1: | :smile: |
 
-Here are some ideas to get you started:
+[NKUST](https://www.nkust.edu.tw/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<https://www.nkust.edu.tw/>
+
+[![]
